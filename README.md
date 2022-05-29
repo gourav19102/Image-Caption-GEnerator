@@ -12,6 +12,6 @@ A encoder decoder model is used for generating captions for image. Cnn model vgg
 
 ## Model Prediction: <br>
 
-<img src="https://github.com/gourav19102/Image-Caption-Generator/tree/main/images" width="100" height="100">
+<img src="https://github.com/gourav19102/Image-Caption-Generator/blob/main/images/caption.PNG" width="300" height="300">
 
 ## Model Performance (Bleu score): <br>
