@@ -9,3 +9,11 @@ A encoder decoder model is used for generating captions for image. Cnn model vgg
 ## Referred Vlogs: <br>
 [1.clairvoyant](https://www.clairvoyant.ai/blog/image-caption-generator)<br>
 [2.machinelearningmastery](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)<br>
+
+## Model Prediction: <br>
+
+
+
+
+
+## Model Performance (Bleu score): <br>
