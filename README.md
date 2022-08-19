@@ -1,8 +1,5 @@
 # Image-Caption-Generator
-The project is to predict the captions for the input image.
-The dataset consists of 8k images and 5 captions for each image.
-A encoder decoder model is used for generating captions for any provided image. Cnn model vgg16 is used for extracting features from training images and is then fed to a layer of lstm as a decoder to generate further sequence of captions(text). project takes understanding of the fields of Computer Vision as well as Natural Language Processing.
-
+Predicting  captions for the input image is the goal of the project. The dataset consists of 8k images and 5 captions for each image. A encoder decoder model is used for generating captions for any provided image. Pretrained Cnn model vgg16 is used for extracting features from training images and is then fed to a layer of lstm as a decoder to generate further sequence of captions(text). Understanding in both the fields of computer vision and natural language processing is required for the project.
 ## Dataset :<br>
 [flickr 8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
