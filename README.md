@@ -3,7 +3,7 @@ Predicting  captions for the input image is the goal of the project. The dataset
 ## Dataset :<br>
 * Flickr8k dataset contains 8092 photographs along with text descriptions by their photographs
 * The dataset is about 8 GB in size
-[flickr 8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
+* link to the data : [flickr 8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
 ## Referred Vlogs: <br>
 [1.clairvoyant](https://www.clairvoyant.ai/blog/image-caption-generator)<br>
