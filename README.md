@@ -5,6 +5,18 @@ Predicting  captions for the input image is the goal of the project. The dataset
 * The dataset is about 8 GB in size
 * link to the data : [flickr 8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
+## Basic Workflow:
+* Image Feature Extraction: <br>
+    *  pretrained cnn model "VGG16" has been used to extract features from the images
+    *  50% dropout and a dense layer
+* Sequence Processer:
+    * input sequence of 34(maxlength) words
+    * embedding layer for word embeddings
+    * 50% dropout
+* Decoder
+    * LSTM with 256 units
+    * dense layer with softmax to produce probability of next word
+
 ## Referred Vlogs: <br>
 [1.clairvoyant](https://www.clairvoyant.ai/blog/image-caption-generator)<br>
 [2.machinelearningmastery](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)<br>
