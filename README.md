@@ -17,9 +17,10 @@ Predicting  captions for the input image is the goal of the project. The dataset
     * LSTM with 256 units
     * dense layer with softmax to produce probability of next word
 
-## Referred Vlogs: <br>
-[1.clairvoyant](https://www.clairvoyant.ai/blog/image-caption-generator)<br>
-[2.machinelearningmastery](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)<br>
+## Referred Paper/Blogs: <br>
+[1.Where to put the Image in an Image Caption Generator](https://arxiv.org/abs/1703.09137)<br>
+[2.clairvoyant](https://www.clairvoyant.ai/blog/image-caption-generator)<br>
+[3.machinelearningmastery](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)<br>
 
 ## Model Prediction: <br>
 
